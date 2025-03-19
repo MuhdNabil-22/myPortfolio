@@ -51,11 +51,13 @@ I am a **Senior Lecturer at Universiti Tenaga Nasional (UNITEN)** specializing i
 - **Predictive Emission Monitoring System (PEMS):** Achieved **95% accuracy** in emission forecasting using AI.  
 - **Fault Classification for TNB Switchgear:** Implemented **ultrasound-based AI analytics** for predictive maintenance.  
 <br>
+
 ## 📂 Projects  
 ### 🔹 AI-Based Renewable Energy Forecasting  
 - Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
 - Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
  <br>
+ 
 ### 🔹 AI-Powered Smart Grid Analytics  
 - Created **AMI (Advanced Metering Infrastructure) analytics tools** for real-time **grid failure prediction**.  
 - Designed **worst-performing feeder (WPF) analytics**, reducing downtime and optimizing power distribution.  
