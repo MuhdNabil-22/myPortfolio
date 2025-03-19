@@ -16,7 +16,7 @@ I am a **Senior Lecturer at Universiti Tenaga Nasional (UNITEN)** specializing i
 </p>
 
 ## 🎓 Education  
-![Skill Logo](/assest/img/WIN_20241015_13_48_24_Pro.jpg)
+
 - **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
 
 - **M.Eng in Electrical Engineering** | Universiti Tenaga Nasional  
@@ -53,7 +53,7 @@ I am a **Senior Lecturer at Universiti Tenaga Nasional (UNITEN)** specializing i
 <br>
 
 ## 📂 Projects  
-### 🔹 AI-Based Renewable Energy Forecasting  
+### [🔹 AI-Based Renewable Energy Forecasting](https://www.mdpi.com/1424-8220/22/8/3048)
 - Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
 - Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
  <br>
